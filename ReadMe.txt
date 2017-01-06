@@ -1,3 +1,3 @@
 Hello! This is my first file in MyFirstGitRepo folder :)
 
-This is the seconde line of this file
+Created by following the tutorial from JLord >> https://github.com/jlord/git-it
